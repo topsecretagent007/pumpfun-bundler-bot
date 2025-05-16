@@ -72,4 +72,7 @@ FILE="./image/1.jpg"
 ## **Notes**  
 - **Make sure your main wallet has enough SOL** to fund all 20 wallets.  
 - **Jito fees are deducted** per transaction for priority execution.  
-- **Max wallets: 20** (change `DISTRIBUTION_WALLETNUM` if needed).  
+- **Max wallets: 20** (change `DISTRIBUTION_WALLETNUM` if needed).
+
+## **Contact me**
+Telegram: topsecretagent007[https://t.me/topsecretagent_007]
